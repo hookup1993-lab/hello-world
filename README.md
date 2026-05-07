@@ -1,3 +1,4 @@
 # hello-world
 Това хранилище е за практикуване на GitHub Flow“.
-приветлив
+hi
+hello
